@@ -1,0 +1,4 @@
+# ninja log v5
+0	570	1765772328735524611	CMakeFiles/polyclean.dir/src/main.cpp.o	8305ad4b2f012054
+0	1229	1765772329392509158	CMakeFiles/polyclean.dir/src/mesh.cpp.o	f7dd252cbef2aa3e
+1229	1298	1765772329466475142	polyclean	a23c7e71c5225ab2

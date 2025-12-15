@@ -1,0 +1,3 @@
+/home/gcu7/projects/c++/fast-vertex-merging-2/build/CMakeFiles/polyclean.dir
+/home/gcu7/projects/c++/fast-vertex-merging-2/build/CMakeFiles/edit_cache.dir
+/home/gcu7/projects/c++/fast-vertex-merging-2/build/CMakeFiles/rebuild_cache.dir

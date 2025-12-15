@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/gcu7/projects/c++/fast-vertex-merging-2/build",
+  "command": "/usr/bin/clang++-20 -I/home/gcu7/projects/c++/fast-vertex-merging-2 -g -std=gnu++20 -o CMakeFiles/polyclean.dir/src/mesh.cpp.o -c /home/gcu7/projects/c++/fast-vertex-merging-2/src/mesh.cpp",
+  "file": "/home/gcu7/projects/c++/fast-vertex-merging-2/src/mesh.cpp",
+  "output": "CMakeFiles/polyclean.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/home/gcu7/projects/c++/fast-vertex-merging-2/build",
+  "command": "/usr/bin/clang++-20 -I/home/gcu7/projects/c++/fast-vertex-merging-2 -g -std=gnu++20 -o CMakeFiles/polyclean.dir/src/main.cpp.o -c /home/gcu7/projects/c++/fast-vertex-merging-2/src/main.cpp",
+  "file": "/home/gcu7/projects/c++/fast-vertex-merging-2/src/main.cpp",
+  "output": "CMakeFiles/polyclean.dir/src/main.cpp.o"
+}
+]
